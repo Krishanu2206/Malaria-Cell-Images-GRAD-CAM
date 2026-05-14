@@ -1,9 +1,7 @@
-torch==2.11.0
-torchvision==0.26.0
-streamlit==1.28.0
+torch>=2.3.0
+torchvision>=0.18.0
+streamlit>=1.35.0
 scikit-learn>=1.6.0
-opencv-python==4.8.1.78
-Pillow==10.0.0
-numpy==1.24.3
-matplotlib==3.8.0
-tqdm==4.66.1
+opencv-python-headless>=4.9.0.80
+Pillow>=10.3.0
+numpy>=1.26.0
